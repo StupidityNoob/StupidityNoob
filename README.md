@@ -37,7 +37,7 @@ I make random Roblox scripts, mess around with ideas, and sometimes create somet
 ---
 
 ## 📫 Contact
-√3
+- Don't Have
 
 ---
 
