@@ -6,7 +6,8 @@
 
 ## 👋 About Me
 Hey there! I'm **StupidityNoob**, your friendly neighborhood lazy scripter.  
-I make random Roblox scripts, mess around with ideas, and sometimes create something that *actually* works.
+I make random Roblox scripts, mess around with ideas, and sometimes create something that **actually**
+works.
 
 ---
 
